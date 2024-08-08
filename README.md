@@ -1,7 +1,7 @@
 # ECOMERCE
 
 ## Descripción
-ECOMERCE es una aplicación de comercio electrónico construida con React JS. Este proyecto fue desarrollado como parte de un curso en Coder House y permite a los usuarios explorar productos, gestionar un carrito de compras y realizar pedidos.
+ECOMERCE es una aplicación de comercio electrónico construida con React JS. Este proyecto final fue desarrollado como parte del curso Coder House y permite a los usuarios explorar productos, gestionar un carrito de compras y realizar pedidos.
 
 ## Tecnologías Utilizadas
 - **React JS**: Framework de frontend para construir interfaces de usuario.
